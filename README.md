@@ -1,4 +1,4 @@
-
+A common front page layout for webpages.
 
 <!DOCTYPE html>
 <html >
