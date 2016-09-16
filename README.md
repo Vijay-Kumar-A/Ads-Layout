@@ -1,5 +1,4 @@
-# Ads-Layout
-A common layout for the webpage from the clients end.
+
 
 <!DOCTYPE html>
 <html >
